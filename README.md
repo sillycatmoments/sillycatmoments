@@ -2,6 +2,8 @@
 
 # <img src="images/cat_nom.gif" style="width: 25px;"> **haaai, im liam! :3** 
 
+---
+
 ## 🌱 hobbies
 
 - 🎹 music
