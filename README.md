@@ -1,6 +1,5 @@
-<img src="images/cat_monitor_paper.png" style="width: 250px;">
-
-# <img src="images/cat_nom.gif" style="width: 25px;"> **haaai, im liam! :3** 
+<img src="images/cat_monitor_paper.png" style="width: 250px;"> | <h2>**haaai, im liam! :3** </h2>
+|-|-|
 
 ---
 
