@@ -8,5 +8,4 @@
 - 🎬 video editing
 - 💻 learning to program!!! <img src="images/guh_cat.gif" style="width: 16px;">
 
----
 
