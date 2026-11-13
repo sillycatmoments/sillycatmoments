@@ -1,4 +1,4 @@
-<img src="images/cat_monitor_paper.png" style="width: 250px;"> | <h2>**haaai, im liam! :3** </h2>
+<img src="images/cat_monitor_paper.png" style="width: 250px;"> | <h2>**haaai, im lucy! :3** </h2>
 |-|-|
 
 ---
